@@ -29,6 +29,10 @@ article li{margin:.4em 0}
 .callout-warn{background:#fff7ed;border:1px solid #fed7aa}
 .callout-tip{background:#f0fdf4;border:1px solid #bbf7d0}
 .lesson-list{max-width:760px;margin:40px 0 0;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 22px}
+.faq details{background:var(--card);border:1px solid var(--line);border-radius:10px;margin:10px 0;padding:0 16px}
+.faq summary{cursor:pointer;font-weight:600;padding:12px 0}
+.faq details[open]{padding-bottom:8px}
+.faq details p{margin:0 0 12px;color:var(--muted)}
 .lesson-list h2{margin:0 0 10px;font-size:1.05rem}
 .lesson-list a{display:block;padding:6px 0;color:var(--muted);text-decoration:none;border-bottom:1px dashed var(--line);font-size:.95rem}
 .lesson-list a:last-child{border-bottom:0}
