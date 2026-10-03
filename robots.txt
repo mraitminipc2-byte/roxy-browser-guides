@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mraitminipc2-byte.github.io/roxy-browser-guides/sitemap.xml
